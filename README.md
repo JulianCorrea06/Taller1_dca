@@ -42,7 +42,7 @@ Se ejecuta varias veces para pintar las figuras en la interfaz
 **sigEtapa()**
 Se ejecuta para pasar de etapa y seguir con el programa
 
-##Clase Rosa
+## Clase Rosa
 ### Clase en donde el usuario debe mantener presionado el click izquierdo sobre la rosa para pasar de etapa.
 
 Metodos:
@@ -51,7 +51,7 @@ Pinta la rosa y el planeta en el que esta plantada
 **contar()**
 Se ejecuta para contar los segundos en el que el click esta siendo presionado encima de la rosa
 
-##Clase Planeta
+## Clase Planeta
 ### Clase en donde el usuario debe arrastrar unas esferas pequeñas a una esfera grande para pasar de etapa.
 
 Metodos:
